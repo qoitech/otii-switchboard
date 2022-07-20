@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+C:\Users\23056030\Box Sync\Altium\Projects\Altium-Projects-OtiiSwitchboard\Project Outputs for Qoitech-DebugSwitch\Pick Place\Pick Place for DebugSwitch.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/02/19
+Time:       12:51
+Revision:   8c8fbbbf736645f3c38473ed9080dda8b2a38221
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer    Footprint         Center-X(mil) Center-Y(mil) Rotation Description                                                                                
+Hole2      M3x0.5          TopLayer M3x0.5            1527.000      618.000       0        ""                                                                                         
+Hole1      M3x0.5          TopLayer M3x0.5            3512.000      1990.000      0        ""                                                                                         
+P8         "7x2pin header" TopLayer TSS-107-04-L-D-RA 3924.000      1884.000      90       ""                                                                                         
+P7         "7x2pin header" TopLayer SSQ-107-02-T-D-RA 533.000       1888.000      270      ""                                                                                         
+P5         "5x2pin header" TopLayer FTSH-105-01-F-DV  1967.520      606.299       360      ""                                                                                         
+P4         "5x2pin header" TopLayer FTSH-105-01-F-DV  1145.669      600.394       360      ""                                                                                         
+P3         "5x2pin header" TopLayer TSM-105-01-L-DV   1964.567      972.638       360      ""                                                                                         
+P2         "5x2pin header" TopLayer TSM-105-01-L-DV   1145.669      972.441       360      ""                                                                                         
+J2         USB_A           TopLayer USB-A-S-F-W-SM2   3892.716      921.260       90       ""                                                                                         
+J1         USB             TopLayer USB_microB        2736.220      527.067       360      ""                                                                                         
+P6         "3x1pin header" TopLayer TSM-103-01-T-SV   2657.480      964.567       90       ""                                                                                         
+P1         "3x1pin header" TopLayer TSM-103-01-T-SV   1545.000      1315.000      180      ""                                                                                         
+S4         Relay_DPDT      TopLayer EE2-5NU           3366.142      1299.213      180      "Relay DPDT"                                                                               
+S3         Relay_DPDT      TopLayer EE2-5NU           3365.157      748.032       180      "Relay DPDT"                                                                               
+S2         Relay_DPDT      TopLayer EE2-5NU           1875.000      1940.000      270      "Relay DPDT"                                                                               
+S1         Relay_DPDT      TopLayer EE2-5NU           1210.000      1940.000      270      "Relay DPDT"                                                                               
+D4         Diode           TopLayer SOD-123           3502.000      1006.000      360      "Generic diode"                                                                            
+D3         LED_GREEN       TopLayer LED_0603          2932.071      1008.071      90       ""                                                                                         
+D2         Diode           TopLayer SOD-123           1550.000      2090.000      90       "Generic diode"                                                                            
+D1         LED_GREEN       TopLayer LED_0603          1555.000      1575.000      180      ""                                                                                         
+R4         RES_0402        TopLayer RES_0402          2580.000      1535.000      180      "SMD Chip Resistor 0402"                                                                   
+R3         RES_0402        TopLayer RES_0402          2861.000      1015.000      90       "SMD Chip Resistor 0402"                                                                   
+R2         RES_0402        TopLayer RES_0402          2381.890      1555.118      360      "SMD Chip Resistor 0402"                                                                   
+R1         RES_0402        TopLayer RES_0402          1546.000      1851.000      90       "SMD Chip Resistor 0402"                                                                   
+Q1         NTZD3154NT1G    TopLayer SOT-563-6         2480.315      1535.433      0        "Small Signal MOSFET, 20 V, 540 mA, Dual N-Channel, 6-Pin SOT-563, Pb-Free, Tape and Reel" 
